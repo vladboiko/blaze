@@ -10,3 +10,6 @@
 'Start project' 
 'Save and out' 
 'Make changes and launch \r\n git commit -a -m "Title commits"' 
+'git remote add origin https://github.com/vladboiko/blaze' 
+'git remote -v --for view remote repo' 
+'git push -u origin main' 
