@@ -1,0 +1,12 @@
+'git --init' 
+'git --config --global user.name "User"' 
+'git --config --global user.email "User@email"' 
+'git --config --global core.editor default_editor' 
+'git --config --list --show-origin 
+'git init 
+'git status 
+'git add filename or git add *.cpp or git add *' 
+'git commit' 
+'Start project' 
+'Save and out' 
+'Make changes and launch \r\n git commit -a -m "Title commits"' 
